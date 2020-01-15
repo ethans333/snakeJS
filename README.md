@@ -1,5 +1,5 @@
 # Snake JS 🐍
-### A simple snake creation in JavaScript
+### A simple snake creation in JavaScript https://snake-ethan.netlify.com/
 
 🚨 Before I begin explaining how this project works I would like to note that this was made w/ p5.js.
 #### To make the canvas repeatedly draw the frames I would need two functions, a _setup_ function and a _draw_ function.
